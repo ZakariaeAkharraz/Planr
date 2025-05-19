@@ -10,4 +10,5 @@ public class PlanrApplication {
 		SpringApplication.run(PlanrApplication.class, args);
 	}
 
+
 }
